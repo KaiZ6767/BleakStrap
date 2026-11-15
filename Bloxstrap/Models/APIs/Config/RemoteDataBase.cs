@@ -19,7 +19,7 @@ namespace Bloxstrap.Models.APIs.Config
         public bool KillFlags { get; set; } = false;
 
         [JsonPropertyName("deeplinkUrl")]
-        public string DeeplinkUrl { get; set; } = "https://bleakstrap.app/joingame";
+        public string DeeplinkUrl { get; set; } = "roblox://experiences/start";
 
         // package maps
         [JsonPropertyName("packageMaps")]

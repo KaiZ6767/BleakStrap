@@ -18,12 +18,12 @@ namespace Bloxstrap
 #else
         public const string ProjectName = "BleakStrap";
 #endif
-        public const string ProjectOwner = "returnrqt";
-        public const string ProjectRepository = "returnrqt/bleakstrap";
-        public const string ProjectDownloadLink = "https://github.com/returnrqt/bleakstrap/releases";
+        public const string ProjectOwner = "KaiZ6767";
+        public const string ProjectRepository = "KaiZ6767/BleakStrap";
+        public const string ProjectDownloadLink = "https://github.com/KaiZ6767/BleakStrap/releases";
         public const string ProjectHelpLink = "https://github.com/bloxstraplabs/bloxstrap/wiki";
-        public const string ProjectSupportLink = "https://github.com/returnrqt/bleakstrap/issues/new";
-        public const string ProjectRemoteDataLink = "https://config.bleakstrap.app/v1/Data.json";
+        public const string ProjectSupportLink = "https://github.com/KaiZ6767/BleakStrap/issues/new";
+        public const string ProjectRemoteDataLink = "https://raw.githubusercontent.com/KaiZ6767/BleakStrap/main/config/Data.json";
 
         public const string RobloxPlayerAppName = "RobloxPlayerBeta.exe";
         public const string RobloxStudioAppName = "RobloxStudioBeta.exe";

@@ -4,7 +4,7 @@ namespace Bloxstrap.Extensions
 {
     static class CustomThemeTemplateEx
     {
-        const string EXAMPLES_URL = "https://github.com/bleakstrap/custom-bootstrapper-examples";
+        const string EXAMPLES_URL = "https://github.com/KaiZ6767/BleakStrap";
 
         public static string GetFileName(this CustomThemeTemplate template)
         {

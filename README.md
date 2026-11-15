@@ -1,7 +1,7 @@
 > [!CAUTION]
-> The only official places to download BleakStrap are this GitHub repository and
-> our website <https://www.bleakstrap.app>. Any other websites offering downloads
-> or claiming to be us are not controlled by us, do not download from them.
+> The only official place to download BleakStrap is this GitHub repository. Any
+> other websites offering downloads or claiming to be us are not controlled by
+> us, do not download from them.
 
 <div align="center">
 
@@ -40,7 +40,7 @@ post in [our Discord server][discord-invite]'s `#support-and-bugs` channel.
   - Ability to increase frame rate cap, toggle quality levels and more
 - BleakStrap's own game invites
   - Try it out now — this link will lead you to Crossroads (don't turn left!):
-    <https://www.bleakstrap.app/v1/joingame?placeId=1818>
+    <roblox://experiences/start?placeId=1818>
 - Cache cleaner, channel switcher and many more
 
 ## Special thanks
@@ -55,21 +55,21 @@ post in [our Discord server][discord-invite]'s `#support-and-bugs` channel.
 
 </div>
 
-[banner-light]: https://github.com/bleakstrap/bleakstrap/raw/main/Images/BleakStrap-Light.png#gh-light-mode-only
-[banner-dark]:  https://github.com/bleakstrap/bleakstrap/raw/main/Images/BleakStrap-Dark.png#gh-dark-mode-only
+[banner-light]: https://github.com/KaiZ6767/BleakStrap/raw/main/Images/BleakStrap-Light.png#gh-light-mode-only
+[banner-dark]:  https://github.com/KaiZ6767/BleakStrap/raw/main/Images/BleakStrap-Dark.png#gh-dark-mode-only
 
-[badge-license]:   https://img.shields.io/github/license/bleakstrap/bleakstrap?style=flat-square
-[badge-actions]:   https://img.shields.io/github/actions/workflow/status/bleakstrap/bleakstrap/ci-release.yml?branch=main&style=flat-square&label=builds
-[badge-downloads]: https://img.shields.io/github/downloads/bleakstrap/bleakstrap/latest/total?style=flat-square&color=981bfe
-[badge-latest]:    https://img.shields.io/github/v/release/bleakstrap/bleakstrap?style=flat-square&color=7a39fb
+[badge-license]:   https://img.shields.io/github/license/KaiZ6767/BleakStrap?style=flat-square
+[badge-actions]:   https://img.shields.io/github/actions/workflow/status/KaiZ6767/BleakStrap/ci-release.yml?branch=main&style=flat-square&label=builds
+[badge-downloads]: https://img.shields.io/github/downloads/KaiZ6767/BleakStrap/latest/total?style=flat-square&color=981bfe
+[badge-latest]:    https://img.shields.io/github/v/release/KaiZ6767/BleakStrap?style=flat-square&color=7a39fb
 [badge-discord]:   https://img.shields.io/discord/1299397064165429360?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=discord&color=4d3dff
-[badge-stars]:     https://img.shields.io/github/stars/bleakstrap/bleakstrap?style=flat-square&color=dd9900
+[badge-stars]:     https://img.shields.io/github/stars/KaiZ6767/BleakStrap?style=flat-square&color=dd9900
 
-[repo-latest]:    https://github.com/bleakstrap/bleakstrap/releases/latest
-[repo-new-issue]: https://github.com/bleakstrap/bleakstrap/issues/new/choose
+[repo-latest]:    https://github.com/KaiZ6767/BleakStrap/releases/latest
+[repo-new-issue]: https://github.com/KaiZ6767/BleakStrap/issues/new/choose
 
-[repo-showcase-dark]:  https://github.com/bleakstrap/bleakstrap/raw/main/Images/Showcase-Dark.png#gh-dark-mode-only
-[repo-showcase-light]:  https://github.com/bleakstrap/bleakstrap/raw/main/Images/Showcase-Light.png#gh-light-mode-only
+[repo-showcase-dark]:  https://github.com/KaiZ6767/BleakStrap/raw/main/Images/Showcase-Dark.png#gh-dark-mode-only
+[repo-showcase-light]:  https://github.com/KaiZ6767/BleakStrap/raw/main/Images/Showcase-Light.png#gh-light-mode-only
 
 [discord-invite]: https://discord.gg/SRs5zb9BJd
 

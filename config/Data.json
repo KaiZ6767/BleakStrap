@@ -1,0 +1,10 @@
+{
+  "alertEnabled": false,
+  "alertContent": null,
+  "alertSeverity": 2,
+  "killFlags": false,
+  "deeplinkUrl": "roblox://experiences/start",
+  "ignoredPackages": [
+    "RobloxPlayerInstaller.exe"
+  ]
+}

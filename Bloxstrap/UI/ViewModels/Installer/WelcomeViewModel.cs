@@ -6,7 +6,7 @@
         public string MainText => String.Format(
             Strings.Installer_Welcome_MainText,
             $"[github.com/{App.ProjectRepository}](https://github.com/{App.ProjectRepository})",
-            "[bleakstrap.app](https://bleakstrap.app)"
+            $"[github.com/{App.ProjectRepository}/releases](https://github.com/{App.ProjectRepository}/releases)"
         );
 
         public bool CanContinue { get; set; } = false;
